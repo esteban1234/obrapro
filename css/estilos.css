@@ -358,3 +358,31 @@ hr.linea{
 textarea.form-control{
     height:100px;
 }
+.contact2 .fa:before {
+  display: inline-block;
+  opacity: 0.7;
+}
+
+.contact2 li {
+  display: inline-block;
+  list-style-type: none;
+  margin: 0 1em;
+  text-align: center;
+}
+
+.contact2 p {
+  text-align: center;
+}
+
+.contact2 {
+  display: inline-block;
+  margin: 0 auto;
+  padding-left: 0;
+  /*border: 2px red solid;*/
+  /*width: 100%;*/
+}
+
+.cont {
+  text-align: center;
+  /*width: 100%;*/
+}

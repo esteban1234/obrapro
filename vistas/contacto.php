@@ -53,15 +53,32 @@
                   </form>
 
                   <hr>
-                    <h3>DATOS DE LA EMPRESA</h3> <br><br>
-                  <ul class="list-inline banner-social-buttons">
-                    <li><a href="#" class="btn btn-default btn-lg"><i class="fa fa-twitter"> <span class="network-name">Twitter</span></i></a></li>
-                    <li><a href="#" class="btn btn-default btn-lg"><i class="fa fa-facebook"> <span class="network-name">Facebook</span></i></a></li>
-                    <li><a href="#" class="btn btn-default btn-lg"><i class="fa fa-youtube-play"> <span class="network-name">Youtube</span></i></a></li>
-                  </ul>
+                    
+                  
                 </div>
               </div>
             </div>
+            <h3>DATOS DE LA EMPRESA</h3> <br><br>
+            <div class="cont">
+                    <ul class="contact2">
+                      <li style="text-align: left;">
+                        <p><i class="fa fa-map-marker fa-3x"></i></p>
+                        <p><strong>DIRECCION</strong><br>Blvd. Arco Iris #442 <br> por C. Indigo y C. Beige. Col. Monte Real.<br>Tuxtla Gutierrez, Chiapas. C.P. 29023</p>
+                      </li>
+                      <li style="text-align: left;">
+                        <p><i class="fa fa-clock-o fa-3x"></i></p>
+                        <p><strong>HORARIO</strong><br>Lunes a Viernes de 9 am a 6 pm</p>
+                      </li>
+                      <li style="text-align: left;">
+                        <p><i class="fa fa-phone fa-3x"></i></p>
+                        <p><strong>TELEFONO</strong><br>PENDIENTE</p>
+                      </li>
+                      <li style="text-align: left;">
+                        <p><i class="fa fa-envelope fa-3x"></i></p>
+                        <p><strong>E-mail:</strong><br>info@constructoraobrapro.com</p>
+                      </li>
+                    </ul>
+                  </div>
         </div>
       </section>
 

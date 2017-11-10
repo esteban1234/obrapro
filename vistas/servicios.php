@@ -19,6 +19,9 @@
         <a class="selector" href="contacto.php">CONTACTO</a>
       </ul>
     </nav>
+    <div class="op-menu">
+        <i class="fa fa-bars fa-2x abrir" aria-hidden="true"></i>
+      </div>
   </header>
   <div class="banners">
     <div class="fondo">
@@ -32,12 +35,12 @@
   <div class="section" style="padding: 5% 0%;">
       <div class="container">
         <div class="row">
-          <div class="col-md-6">
+          <div class="col-sm-6 col-md-6">
             <img src="../img/diseno.jpg"
-            class="img-responsive">
+            class="img-responsive img-in">
           </div>
-          <div class="col-md-6">
-            <h1>Diseño y Construcción de Viviendas Residenciales</h1>
+          <div class="col-sm-6 col-md-6">
+            <h1 class="tit-in">Diseño y Construcción de Viviendas Residenciales</h1>
             <p class="texto">¡Nos distinguimos por nuestro Diseño, Calidad y Precio! Creamos proyectos integrales para la Construcción de Viviendas de gama Media y Alta, atendiendo a los estándares de calidad vigentes, teniendo como prioridad la calidad de los materiales empleados. Si ya cuentas con un Terreno, nosotros nos encargamos de la construcción y si aún no lo encuentras,¡nosotros te ayudamos!</p>
           </div>
         </div>
@@ -53,40 +56,40 @@
 
     <div class="section" style="padding: 5% 0%;">
       <div class="container">
-        <h1 class="text-center" style="color: #000;">¿PORQUE ELEGIRNOS?</h1> <br><br>
+        <h1 class="text-center tit-in" style="color: #000;">¿PORQUE ELEGIRNOS?</h1> <br><br>
         <div class="row">
-          <div class="col-md-3">
+          <div class="col-sm-6 col-md-3">
             <img src="../img/calidad.png"
-            class="img-responsive">
-            <h3>CALIDAD</h3>
-            <p>Empleamos materiales y estándares de construcción garantizados.</p>
+            class="img-responsive img-mvn">
+            <h3 class="tit-mvn">CALIDAD</h3>
+            <p class="tit-etia">Empleamos materiales y estándares de construcción garantizados.</p>
           </div>
-          <div class="col-md-3">
+          <div class="col-sm-6 col-md-3">
             <img src="../img/precio.png"
-            class="img-responsive">
-            <h3>PRECIO JUSTO</h3>
-            <p>Trabajamos de acuerdo a tu presupuesto sin demeritar la calidad.</p>
+            class="img-responsive img-mvn">
+            <h3 class="tit-mvn">PRECIO JUSTO</h3>
+            <p class="tit-etia">Trabajamos de acuerdo a tu presupuesto sin demeritar la calidad.</p>
           </div>
-          <div class="col-md-3">
+          <div class="col-sm-6 col-md-3">
             <img src="../img/estandares.png"
-            class="img-responsive img-rounded">
-            <h3>ESTÁNDARES EUROPEOS</h3>
-            <p>Incorporamos estándares Europeos apegados a las normas nacionales.</p>
+            class="img-responsive img-rounded img-mvn">
+            <h3 class="tit-mvn">ESTÁNDARES EUROPEOS</h3>
+            <p class="tit-etia">Incorporamos estándares Europeos apegados a las normas nacionales.</p>
           </div>
-          <div class="col-md-3">
+          <div class="col-sm-6 col-md-3">
             <img src="../img/experencia.png"
-            class="img-responsive">
-            <h3>EXPERIENCIA</h3>
-            <p>Años trabajando y siendo líderes en México y Europa, nos avalan.</p>
+            class="img-responsive img-mvn">
+            <h3 class="tit-mvn">EXPERIENCIA</h3>
+            <p class="tit-etia">Años trabajando y siendo líderes en México y Europa, nos avalan.</p>
           </div>
         </div>
       </div>
     </div>
 
      <div class="section" style="padding: 5% 0%; background-color: #808b96;">
-      <div class="container">
-        <h1 class="text-center" style="color: #000;">SERVICIOS</h1> <br><br>
-        <div class="row">
+      <div class="container elimina-br">
+        <h1 class="text-center tit-in" style="color: #000;">SERVICIOS</h1> <br><br>
+        <div class="row tex">
           <figure class="uno">
             <div class="fondo1">
               <h2>SUPERVISIÓN</h2>
@@ -110,7 +113,7 @@
           </figure>
         </div> <br><br>
 
-        <div class="row">
+        <div class="row tex">
           <figure class="cuatro">
             <div class="fondo1">
               <h2>AVALÚOS INMOBILIARIOS</h2>

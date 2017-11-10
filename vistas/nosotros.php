@@ -19,6 +19,9 @@
         <a class="selector" href="contacto.php">CONTACTO</a>
       </ul>
     </nav>
+    <div class="op-menu">
+      <i class="fa fa-bars fa-2x abrir" aria-hidden="true"></i>
+    </div>
   </header>
   <div class="bannern">
     <div class="fondo">
@@ -32,11 +35,11 @@
   <div class="section" style="padding: 5% 0%;">
       <div class="container">
         <div class="row">
-          <div class="col-md-6">
-            <img src="../img/innovadora.jpg" class="img-responsive">
+          <div class="col-sm-6 col-md-6">
+            <img src="../img/innovadora.jpg" class="img-responsive img-in">
           </div>
-          <div class="col-md-6">
-            <h1>Innovación, investigación y desarrollo de ecotecnologías</h1>
+          <div class="col-sm-6 col-md-6">
+            <h1 class="tit-in">Innovación, investigación y desarrollo de ecotecnologías</h1>
             <p class="texto">Obrapro, consolidada a través de una organización humana y eficiente, fundamentada en una gestión emprendedora y dinámica, busca resolver las necesidades de nuestros clientes mediante la aplicación de conocimiento y experiencia en las áreas de investigación, diseño, construcción y logística; todo en cumplimiento de los estándares y especificaciones solicitadas por las leyes de construcción y Normas Oficiales Mexicanas (NOM), así como por los requerimientos especiales de cada uno de nuestros clientes.</p>
           </div>
         </div>
@@ -46,13 +49,13 @@
     <div class="section" style="padding: 0% 0% 5% 0%;">
       <div class="container">
         <div class="row">
-          <div class="col-md-6">
-            <h1>Nuestras tecnologías</h1>
+          <div class="col-sm-6 col-md-6">
+            <h1 class="tit-in">Nuestras tecnologías</h1>
             <p class="texto">OBRAPRO, hoy día, es uno de los principales desarrolladores de tecnología constructiva en el mercado nacional. Su objetivo ha sido, es y seguirá siendo desarrollar servicios altamente eficientes y ecoamigables, que optimicen y mejoren los procesos constructivos.</p>
           </div>
-          <div class="col-md-6">
+          <div class="col-sm-6 col-md-6">
             <img src="../img/tecnologias.jpg"
-            class="img-responsive">
+            class="img-responsive img-in">
           </div>
         </div>
       </div>
@@ -65,24 +68,22 @@
 
     <div class="section" style="padding: 5% 0%;">
       <div class="container">
-        <h1 class="text-center" style="color: #000;">NUESTRA FILOSOFIA</h1> <br><br>
+        <h1 class="text-center tit-nf" style="color: #000;">NUESTRA FILOSOFIA</h1> <br><br>
         <div class="row">
-          <div class="col-md-4">
-            <img src="../img/miison.png"
-            class="img-responsive">
-            <h2>MISION</h2>
-            <p>Finalizar la ejecución de nuestros proyectos con cero accidentes, trabajar con un alto estándar de calidad logrando así el reconocimiento y satisfacción de nuestros clientes para permanecer en el mercado de la construcción resguardando el compromiso y crecimiento personal de todo nuestro equipo en el tiempo.</p>
+          <div class="col-sm-4 col-md-4">
+            <img src="../img/miison.png" class="img-responsive img-mvn">
+            <h2 class="tit-mvn">MISION</h2>
+            <p class="txt-mv">Finalizar la ejecución de nuestros proyectos con cero accidentes, trabajar con un alto estándar de calidad logrando así el reconocimiento y satisfacción de nuestros clientes para permanecer en el mercado de la construcción resguardando el compromiso y crecimiento personal de todo nuestro equipo en el tiempo.</p>
           </div>
-          <div class="col-md-4 ">
-            <img src="../img/vision.png" class="img-responsive">
-            <h2>VISION</h2>
-            <p>Contribuir al desarrollo de nuestra sociedad mediante la ejecución de proyectos de ingeniería, logrando el crecimiento y desarrollo personal de cada una de las personas que integran nuestro equipo de trabajo.</p>
+          <div class="col-sm-4 col-md-4 ">
+            <img src="../img/vision.png" class="img-responsive img-mvn">
+            <h2 class="tit-mvn">VISION</h2>
+            <p class="txt-mv">Contribuir al desarrollo de nuestra sociedad mediante la ejecución de proyectos de ingeniería, logrando el crecimiento y desarrollo personal de cada una de las personas que integran nuestro equipo de trabajo.</p>
           </div>
-          <div class="col-md-4">
-            <img src="../img/valore.png"
-            class="img-responsive">
-            <h2>NUSTRAS VENTAJAS</h2>
-            <p> • Agilizamos el proceso constructivo <br>
+          <div class="col-sm-4 col-md-4">
+            <img src="../img/valore.png" class="img-responsive img-mvn">
+            <h2 class="tit-mvn">NUSTRAS VENTAJAS</h2>
+            <p class="txt-n"> • Agilizamos el proceso constructivo <br>
                 • Logramos un acabado estético inigualable<br>
                 • Reducción en mantenimiento<br>
                 • Reducción de costos<br>

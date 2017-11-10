@@ -20,6 +20,7 @@ $mail->FromName = $nombre;
 $mail->addAddress("info@constructoraobrapro.com");
 
 
+
 $mail->isHTML(true);
 
 $mail->Subject = "Cotizacion OBRAPRO";
@@ -27,10 +28,10 @@ $mail->Body = "
               <!DOCTYPE html>
                 <html>
                 <head>
-                <title>Duncor</title>
+                <title>obrapro</title>
                 </head>
                 <body  style='border:.5px solid rgba('0,0,0,0.8');background:#fff'>                
-                <h1 style='text-align:center;  font-weight: bold'>DUNCOR</h1>
+                <h1 style='text-align:center;  font-weight: bold'>OBRAPRO</h1>
                 <b>Telefono: </b>$telefono<br/>
                 <div style='color:#747474; padding:20px 10px; text-align: justify'>$comentario <div><br/>
 
